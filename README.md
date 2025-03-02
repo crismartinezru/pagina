@@ -34,6 +34,7 @@ TABLE, TH, TD{
 BORDER: 1PX SOLID BLACK;
 }
 </STYLE>
+  https://open.spotify.com/intl-es/track/7BwxbmYFy0l3ROHDjV2c14?si=e18c3faf66544965
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <TABLE>
@@ -79,6 +80,7 @@ BORDER: 1PX SOLID BLACK;
 </STYLE>
   https://youtube.com/shorts/Q0f8GgbZb78?si=bua3pVcTKkc_wCh_
 </HEAD>
+https://open.spotify.com/intl-es/track/2PZtKB8fDoDGLot27oUnWH?si=e6282b08768f46ff
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -113,6 +115,7 @@ BORDER: 1PX SOLID BLACK;
 </STYLE>
 https://youtube.com/shorts/9Wf7FzacCYk?si=MyBwp_6wjh9Et3PV
 </HEAD>
+https://open.spotify.com/intl-es/track/4mu9UDULgYFQfWQFx5fkKM?si=dff82dd1eaab4387
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -147,6 +150,7 @@ BORDER: 1PX SOLID BLACK;
 </STYLE>
   https://youtube.com/shorts/LwgLAMsTdnQ?si=c9Vg_AuLS-l2tDgS
 </HEAD>
+https://open.spotify.com/intl-es/track/221qmpQeBNV87sUjQeUTVH?si=df3162561b3c480c
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -188,11 +192,6 @@ UN CORAZÓN FEROZ,<u>EL 911 RS, UN COCHE QUE NOS HACE SOÑAR,</u><BR>
 SU MOTOR CANTA, UN SONIDO SUBLIME, <b>UN AUTO QUE LATE CON PASIÓN Y ADRENALINA,</b>,<BR>
 UN SUEÑO DE CONDUCCIÓN,  <u>UNA OBRA DE ARTE </u> EN MOVIMIENTO.</em></p><BR>
 </FONT>
-https://youtube.com/shorts/7LPmih9TwDU?si=xOp_F64d8QjtwDAm
-https://open.spotify.com/intl-es/track/7BwxbmYFy0l3ROHDjV2c14?si=e18c3faf66544965
-https://open.spotify.com/intl-es/track/2PZtKB8fDoDGLot27oUnWH?si=e6282b08768f46ff
-https://open.spotify.com/intl-es/track/4mu9UDULgYFQfWQFx5fkKM?si=dff82dd1eaab4387
-https://open.spotify.com/intl-es/track/221qmpQeBNV87sUjQeUTVH?si=df3162561b3c480c
 https://open.spotify.com/intl-es/track/6AI3ezQ4o3HUoP6Dhudph3?si=21903ae7899045e1 
 </BODY>
 </HTML>
