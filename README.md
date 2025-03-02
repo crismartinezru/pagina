@@ -27,6 +27,7 @@ BORDER: 1PX SOLID BLACK;
 </TR>
 </TABLE>
 </HEAD>
+  https://youtube.com/shorts/d3sZdZatcUg?si=Pcz9iG7lnCMHyhyz
 <BODY BGCOLOR=SALMON>
 <STYLE>
 TABLE, TH, TD{
@@ -76,6 +77,7 @@ TABLE, TH, TD{
 BORDER: 1PX SOLID BLACK;
 }
 </STYLE>
+  https://youtube.com/shorts/Q0f8GgbZb78?si=bua3pVcTKkc_wCh_
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <TABLE>
@@ -109,6 +111,7 @@ TABLE, TH, TD{
 BORDER: 1PX SOLID BLACK;
 }
 </STYLE>
+https://youtube.com/shorts/9Wf7FzacCYk?si=MyBwp_6wjh9Et3PV
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <TABLE>
@@ -142,6 +145,7 @@ TABLE, TH, TD{
 BORDER: 1PX SOLID BLACK;
 }
 </STYLE>
+  https://youtube.com/shorts/LwgLAMsTdnQ?si=c9Vg_AuLS-l2tDgS
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <TABLE>
@@ -170,6 +174,7 @@ BORDER: 1PX SOLID BLACK;
 <TD>$25,522.00</TD>
 </TR>
 </TABLE>
+ https://youtube.com/shorts/7LPmih9TwDU?si=xOp_F64d8QjtwDAm
 <FONT COLOR=BLACK FONT=SCRIPT SIZE=30>
 CRISTIAN TOMAS MARTINEZ RUIZ  <BR>
 16 AÑOS<BR>
@@ -183,10 +188,6 @@ UN CORAZÓN FEROZ,<u>EL 911 RS, UN COCHE QUE NOS HACE SOÑAR,</u><BR>
 SU MOTOR CANTA, UN SONIDO SUBLIME, <b>UN AUTO QUE LATE CON PASIÓN Y ADRENALINA,</b>,<BR>
 UN SUEÑO DE CONDUCCIÓN,  <u>UNA OBRA DE ARTE </u> EN MOVIMIENTO.</em></p><BR>
 </FONT>
-https://youtube.com/shorts/d3sZdZatcUg?si=Pcz9iG7lnCMHyhyz
-https://youtube.com/shorts/Q0f8GgbZb78?si=bua3pVcTKkc_wCh_
-https://youtube.com/shorts/9Wf7FzacCYk?si=MyBwp_6wjh9Et3PV
-https://youtube.com/shorts/LwgLAMsTdnQ?si=c9Vg_AuLS-l2tDgS
 https://youtube.com/shorts/7LPmih9TwDU?si=xOp_F64d8QjtwDAm
 https://open.spotify.com/intl-es/track/7BwxbmYFy0l3ROHDjV2c14?si=e18c3faf66544965
 https://open.spotify.com/intl-es/track/2PZtKB8fDoDGLot27oUnWH?si=e6282b08768f46ff
