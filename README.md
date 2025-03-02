@@ -22,7 +22,6 @@ Mi Primer Sitio web
 </TR>
 </TABLE>
 </HEAD>
-  https://youtube.com/shorts/d3sZdZatcUg?si=Pcz9iG7lnCMHyhyz
 <BODY BGCOLOR=SALMON>
 <STYLE>
 TABLE, TH, TD{
@@ -30,6 +29,8 @@ BORDER: 1PX SOLID BLACK;
 }
 </STYLE>
   https://open.spotify.com/intl-es/track/7BwxbmYFy0l3ROHDjV2c14?si=e18c3faf66544965
+  https://mx.pinterest.com/pin/110056784637733066/
+  https://youtube.com/shorts/d3sZdZatcUg?si=Pcz9iG7lnCMHyhyz
 </HEAD>
 <BODY BGCOLOR=SALMON>
 <TABLE>
@@ -76,6 +77,7 @@ BORDER: 1PX SOLID BLACK;
   https://youtube.com/shorts/Q0f8GgbZb78?si=bua3pVcTKkc_wCh_
 </HEAD>
 https://open.spotify.com/intl-es/track/2PZtKB8fDoDGLot27oUnWH?si=e6282b08768f46ff
+https://mx.pinterest.com/pin/5699937022729076/
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -111,6 +113,7 @@ BORDER: 1PX SOLID BLACK;
 https://youtube.com/shorts/9Wf7FzacCYk?si=MyBwp_6wjh9Et3PV
 </HEAD>
 https://open.spotify.com/intl-es/track/4mu9UDULgYFQfWQFx5fkKM?si=dff82dd1eaab4387
+https://mx.pinterest.com/pin/172755335702289413/
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -146,6 +149,7 @@ BORDER: 1PX SOLID BLACK;
   https://youtube.com/shorts/LwgLAMsTdnQ?si=c9Vg_AuLS-l2tDgS
 </HEAD>
 https://open.spotify.com/intl-es/track/221qmpQeBNV87sUjQeUTVH?si=df3162561b3c480c
+https://mx.pinterest.com/pin/4292562139557624/
 <BODY BGCOLOR=SALMON>
 <TABLE>
 <TR>
@@ -188,5 +192,6 @@ SU MOTOR CANTA, UN SONIDO SUBLIME, <b>UN AUTO QUE LATE CON PASIÓN Y ADRENALINA,
 UN SUEÑO DE CONDUCCIÓN,  <u>UNA OBRA DE ARTE </u> EN MOVIMIENTO.</em></p><BR>
 </FONT>
 https://open.spotify.com/intl-es/track/6AI3ezQ4o3HUoP6Dhudph3?si=21903ae7899045e1 
+https://mx.pinterest.com/pin/979603356454417112/
 </BODY>
 </HTML>
